@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A wild technical blog appears!</title>
+    <description>My personal blog. Topics relating to my interests. e.g Software Engineering, Programming Theoretical Physics, Mathematical Economics/Finance, Cyber Security etc.
+</description>
+    <link>http://notaurl.com/</link>
+    <atom:link href="http://notaurl.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Jan 2015 12:23:36 -0500</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2015 12:23:36 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Obligatory first post for my new technical blog! I’m going to update this site weekly - biweekly with different tidbits and thoughts that I have… Usually (but not limited too!) Engineering, Science, or Economics.&lt;/p&gt;
+
+&lt;p&gt;Shotgun Introduction:
+I previously worked at EA Sports working on the Madden Stability team and now I am doing freelance web app development. In 2016 I plan to receive a bachelor’s in Computer Science and Physics from the University of Central Florida. Start ups and tech are my passion and I follow the tech scene in Silicon Valley (and China, they’re coming up on the scene!) like 13 year old girls follow Gossip girl and I’m not ashamed.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Jan 2015 06:49:44 -0500</pubDate>
+        <link>http://notaurl.com/jekyll/update/2015/01/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://notaurl.com/jekyll/update/2015/01/14/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
